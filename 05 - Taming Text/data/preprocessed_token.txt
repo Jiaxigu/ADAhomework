@@ -264,7 +264,6 @@ west
 bank/gaza
 ''
 ``
-fyi
 b6
 —
 —
@@ -295,7 +294,6 @@ lte
 druid
 ''
 hey
-fyi
 ``
 anne-mari
 slaughter
@@ -3526,7 +3524,6 @@ state-5cb0045314
 libyan
 ''
 ``
-fyi
 --
 ''
 ``
@@ -3564,7 +3561,6 @@ piec
 stand
 diplomat
 ''
-fyi
 ''
 libyan
 ''
@@ -6170,7 +6166,6 @@ prothero
 mission
 benghazi
 ''
-fyi
 ``
 octob
 6
@@ -7175,7 +7170,6 @@ strategist
 egypt
 move
 040811.docx
-fyi
 b5
 ''
 ''
@@ -10464,7 +10458,6 @@ uk
 sid
 jake
 --
-fyi
 lauren—pl
 print
 ''
@@ -12406,7 +12399,6 @@ plan
 sid
 ''
 ``
-fyi
 b6
 ''
 ''
@@ -15270,7 +15262,6 @@ discuss
 sid
 ''
 ``
-fyi
 send
 around
 choos
@@ -16697,7 +16688,6 @@ possibl
 benghazi
 connect
 ''
-fyi
 ''
 hrc
 friend
@@ -25257,7 +25247,6 @@ thank
 feltman
 tidbit
 ''
-fyi
 ''
 our
 exchang
@@ -25369,7 +25358,6 @@ f
 subject
 fw
 karernentilibya
-fyi
 ''
 ``
 mill
@@ -25509,7 +25497,6 @@ libya
 intern
 strife
 012312.cioa
-fyi
 usual
 distribut
 determin
@@ -28135,7 +28122,6 @@ graph
 5
 sid
 ''
-fyi
 ``
 h
 v
@@ -28220,7 +28206,6 @@ start
 graph
 5
 sid
-fyi
 ''
 ``
 it
@@ -30598,7 +30583,6 @@ waiver
 state-scb0045194
 ''
 ''
-fyi
 ''
 ``
 will
@@ -30620,7 +30604,6 @@ libya
 intel
 s
 ''
-fyi
 ''
 h
 libyan
@@ -33159,7 +33142,6 @@ know
 think
 ''
 ``
-fyi
 ''
 ``
 good
@@ -34125,7 +34107,6 @@ messar
 palau/guantanamo
 uighur
 ''
-fyi
 ``
 thank
 ''
@@ -35522,7 +35503,6 @@ juli
 pm
 n.
 korea
-fyi
 ''
 ``
 speech
@@ -36095,7 +36075,6 @@ soon
 ``
 head
 ''
-fyi
 ''
 mtp
 brief
@@ -40933,7 +40912,6 @@ china
 chines
 ''
 ``
-fyi
 --
 's
 info
@@ -41376,7 +41354,6 @@ got
 home
 ''
 ``
-fyi
 ''
 yes
 ``
@@ -42462,7 +42439,6 @@ hrc
 hilda
 soli
 ''
-fyi
 speech
 ``
 can
@@ -45818,7 +45794,6 @@ ask
 start
 ''
 ``
-fyi
 ''
 ``
 thx
@@ -47762,7 +47737,6 @@ much
 ``
 egypt
 ''
-fyi
 ''
 call
 list
@@ -50400,7 +50374,6 @@ of
 the
 sfrc
 ''
-fyi
 ``
 fyi
 mill
@@ -50859,7 +50832,6 @@ talk
 ''
 call
 ``
-fyi
 mill
 cheryl
 d
@@ -50885,7 +50857,6 @@ talk
 w
 ''
 ``
-fyi
 mill
 cheryl
 d
@@ -51511,7 +51482,6 @@ seiz
 somali
 pirat
 ''
-fyi
 ''
 fw
 haiti
@@ -57893,7 +57863,6 @@ u
 thank
 much
 ''
-fyi
 ''
 fw
 high
@@ -57960,7 +57929,6 @@ went
 well
 mine
 attach
-fyi
 all
 best
 thank
@@ -58141,14 +58109,12 @@ releas
 in
 part
 b5
-fyi
 i
 plan
 send
 deni
 ''
 ''
-fyi
 karzai
 call
 ''
@@ -58292,7 +58258,6 @@ avail
 hrc
 jone
 ''
-fyi
 holbrook
 ``
 he
@@ -58431,7 +58396,6 @@ b6
 ''
 guinea
 ''
-fyi
 ``
 mill
 cheryl
@@ -58473,7 +58437,6 @@ posner
 address
 number
 ''
-fyi
 ``
 iran
 us
@@ -59419,7 +59382,6 @@ fyi
 ''
 guinea
 ''
-fyi
 re
 k
 ''
@@ -59609,7 +59571,6 @@ releas
 in
 part
 b6
-fyi
 ''
 ''
 afpak
@@ -59857,7 +59818,6 @@ h
 traffic
 elleni
 b6
-fyi
 ''
 call
 ``
@@ -59957,7 +59917,6 @@ report
 readi
 ''
 ``
-fyi
 toni
 ...
 sid
@@ -60619,7 +60578,6 @@ confirm
 19
 tonit
 ``
-fyi
 —
 lauren
 meet
@@ -60725,7 +60683,6 @@ fw
 hill
 vote
 ''
-fyi
 ''
 testimoni
 ''
@@ -61313,7 +61270,6 @@ local
 /16:30
 edt
 ''
-fyi
 ``
 mill
 cheryl
@@ -62177,7 +62133,6 @@ forc
 protect
 countri
 ''
-fyi
 ''
 onli
 palau
@@ -62264,7 +62219,6 @@ am
 h
 bob
 king
-fyi
 ''
 ''
 bill
@@ -63750,7 +63704,6 @@ see
 email
 i
 reciev
-fyi
 ''
 ``
 will
@@ -63903,7 +63856,6 @@ see
 email
 i
 reciev
-fyi
 ''
 ``
 pverveer
@@ -64083,7 +64035,6 @@ adjust
 goodwin
 ''
 ``
-fyi
 sent
 via
 blackberri
@@ -64362,15 +64313,12 @@ susan
 burk
 confirm
 ''
-fyi
 ''
 help
 ''
-fyi
 ''
 help
 ''
-fyi
 ''
 open
 sky
@@ -64403,14 +64351,12 @@ sure
 twitter
 dos
 ''
-fyi
 ''
 fw
 fourth
 speechwrit
 updat
 ''
-fyi
 ''
 speech
 ''
@@ -65405,7 +65351,6 @@ amcit
 north
 korea
 ''
-fyi
 ``
 abedin
 huma
@@ -65563,7 +65508,6 @@ food
 secur
 ''
 ``
-fyi
 mill
 cheryl
 d
@@ -66064,7 +66008,6 @@ dead
 at
 62
 ''
-fyi
 ''
 obama
 pick
@@ -66088,7 +66031,6 @@ energi
 coordin
 ''
 ``
-fyi
 work
 relat
 david
@@ -66111,11 +66053,9 @@ cdm
 alma
 powel
 ''
-fyi
 ''
 korea
 ''
-fyi
 ''
 re
 confidenti
@@ -67181,7 +67121,6 @@ minist
 extern
 affair
 ''
-fyi
 ''
 denni
 ross
@@ -67379,7 +67318,6 @@ grow
 impati
 obama
 ''
-fyi
 ''
 ursula
 burn
@@ -67390,7 +67328,6 @@ n't
 contact
 track
 ''
-fyi
 ``
 by
 matthew
@@ -67865,7 +67802,6 @@ ok
 nyu
 ''
 ``
-fyi
 case
 want
 see
@@ -68524,7 +68460,6 @@ right
 reserv
 7
 ''
-fyi
 ``
 father
 gutierrez
@@ -68555,7 +68490,6 @@ earli
 8
 ''
 ''
-fyi
 ''
 ``
 i
@@ -68574,7 +68508,6 @@ fw
 candid
 ''
 ``
-fyi
 c
 ''
 ''
@@ -69725,7 +69658,6 @@ reach
 sydney
 blumenth
 ''
-fyi
 ''
 happen
 ...
@@ -69904,7 +69836,6 @@ beth
 sheridan
 wp
 ''
-fyi
 b6
 ``
 huma
@@ -72117,7 +72048,6 @@ meet
 roxann
 saberi
 ''
-fyi
 ''
 jim
 call
@@ -72406,7 +72336,6 @@ mine
 ''
 hrc
 ''
-fyi
 ''
 re
 daniel
@@ -73138,7 +73067,6 @@ roxana
 saberi
 left
 iran
-fyi
 ''
 4.-
 ``
@@ -73180,7 +73108,6 @@ may
 pm
 fw
 thank
-fyi
 ''
 ``
 cheryl
@@ -73195,7 +73122,6 @@ fw
 cabl
 ''
 ''
-fyi
 ''
 ``
 cheryl
@@ -73442,13 +73368,11 @@ saberi
 famili
 wheel
 ''
-fyi
 ''
 fw
 phil
 gordon
 ''
-fyi
 ``
 mill
 cheryl
@@ -74384,7 +74308,6 @@ around
 thank
 ...
 ''
-fyi
 ''
 i
 fax
@@ -74399,7 +74322,6 @@ philippin
 burma
 statement
 ''
-fyi
 ``
 jake/jim/bil
 cheryl
@@ -74935,7 +74857,6 @@ tiger
 leader
 kill
 ''
-fyi
 ''
 palau/guantanamo
 uighur
@@ -75032,7 +74953,6 @@ energi
 coordin
 ''
 ``
-fyi
 sent
 via
 blackberri
@@ -75898,7 +75818,6 @@ s
 shanghai
 ''
 ``
-fyi
 alal•••••■•••■•■•■•
 ■
 •1*
@@ -76810,7 +76729,6 @@ passag
 supplement
 226-202
 ''
-fyi
 ''
 rahm
 need
@@ -78206,7 +78124,6 @@ handheld
 some
 updat
 ''
-fyi
 ``
 mill
 cheryl
@@ -78220,7 +78137,6 @@ june
 9:35
 pm
 nyt
-fyi
 ''
 ''
 clinton
@@ -78422,7 +78338,6 @@ review
 ``
 jim
 ''
-fyi
 ``
 abedin
 hume
@@ -82499,13 +82414,11 @@ step
 ''
 koh
 ''
-fyi
 ''
 hsf
 follow
 letter
 ''
-fyi
 ''
 fw
 hsf
@@ -82873,7 +82786,6 @@ wsj
 articl
 ''
 ``
-fyi
 come
 brief
 ''
@@ -83622,7 +83534,6 @@ maliki
 24
 ''
 ''
-fyi
 gibb
 excerpt
 6/30
@@ -83848,7 +83759,6 @@ bond
 w.h
 ''
 ``
-fyi
 sent
 via
 blackberri
@@ -83877,7 +83787,6 @@ buck
 maloney
 ''
 ``
-fyi
 sent
 via
 blackberri
@@ -83902,7 +83811,6 @@ juli
 8:04
 pm
 schumer
-fyi
 schumer
 call
 ''
@@ -83910,7 +83818,6 @@ call
 schumer
 ''
 ``
-fyi
 nita
 lowey
 call
@@ -84073,7 +83980,6 @@ white
 hous
 ''
 ``
-fyi
 b6
 ''
 ''
@@ -84140,7 +84046,6 @@ am
 cos
 call
 6/10/09
-fyi
 ''
 ''
 mitchel
@@ -84325,7 +84230,6 @@ juli
 am
 secur
 situat
-fyi
 call
 ''
 ''
@@ -84342,7 +84246,6 @@ facto
 readi
 deal
 ''
-fyi
 qddr
 ``
 b6
@@ -84422,7 +84325,6 @@ jacob
 j
 confer
 call
-fyi
 ''
 ''
 time
@@ -84432,7 +84334,6 @@ meet
 zelaya
 tomorrow
 ''
-fyi
 ''
 schedul
 ''
@@ -84452,7 +84353,6 @@ gay
 iraqi
 ''
 ``
-fyi
 b6
 ''
 ''
@@ -84690,7 +84590,6 @@ work
 best
 ''
 ``
-fyi
 get
 draft
 comment
@@ -87369,7 +87268,6 @@ re
 ``
 we
 said
-fyi
 ''
 ``
 h
@@ -87487,7 +87385,6 @@ havana
 ''
 ``
 fw
-fyi
 ''
 ``
 see
@@ -88490,7 +88387,6 @@ sheet
 ''
 ok
 ''
-fyi
 ...
 sid
 ''
@@ -88672,7 +88568,6 @@ start
 ''
 ``
 confidenti
-fyi
 traffic
 vi
 n't
@@ -89731,7 +89626,6 @@ iter
 ''
 ``
 confidenti
-fyi
 ''
 ``
 mill
@@ -89747,7 +89641,6 @@ may
 am
 fw
 frame
-fyi
 •
 jim
 's
@@ -89972,7 +89865,6 @@ yes
 cdm
 ''
 ``
-fyi
 mill
 cheryl
 d
@@ -90391,7 +90283,6 @@ hill
 convoy
 tallil
 ''
-fyi
 ``
 mill
 cheryl
@@ -90406,7 +90297,6 @@ june
 pm
 note
 s
-fyi
 clas
 version
 come
@@ -90588,7 +90478,6 @@ minist
 yeo
 schedul
 today
-fyi
 one
 favorit
 singaporean
@@ -92969,7 +92858,6 @@ cdm
 nomin
 today
 ''
-fyi
 ''
 fw
 word
@@ -93663,7 +93551,6 @@ thought
 observ
 ''
 ``
-fyi
 mill
 cheryl
 d
@@ -93722,7 +93609,6 @@ big
 step
 ''
 ``
-fyi
 mill
 cheryl
 wednesday
@@ -93815,7 +93701,6 @@ public
 gather
 sbu
 ''
-fyi
 ''
 brook
 request
@@ -94447,7 +94332,6 @@ faith
 hello
 interpol
 ''
-fyi
 ''
 messag
 back
@@ -94922,7 +94806,6 @@ get
 dc
 till
 midnight
-fyi
 0
 lrfl
 ''
@@ -95044,7 +94927,6 @@ this
 get
 ''
 ``
-fyi
 press
 clip
 wo
@@ -96110,7 +95992,6 @@ june
 1:36
 pm
 b6
-fyi
 ''
 ``
 whi
@@ -96128,7 +96009,6 @@ are
 awak
 ''
 ``
-fyi
 iam
 go
 ask
@@ -96312,7 +96192,6 @@ report
 seiz
 arm
 forc
-fyi
 ''
 ''
 funer
@@ -96375,7 +96254,6 @@ feingold
 ''
 hondura
 ''
-fyi
 ''
 lavrov
 ''
@@ -97337,7 +97215,6 @@ b6
 cv.doc
 hort
 bio.pdf
-fyi
 ''
 ''
 your
@@ -98275,7 +98152,6 @@ draft
 haiti
 clip
 ''
-fyi
 ''
 here
 summari
@@ -98302,9 +98178,7 @@ al
 senat
 kyl
 ''
-fyi
 ``
-fyi
 discuss
 ''
 ''
@@ -98312,7 +98186,6 @@ nice
 address
 today
 ''
-fyi
 ''
 fw
 urgent
@@ -98542,7 +98415,6 @@ j
 abedin
 huma
 how
-fyi
 ''
 ''
 they
@@ -98559,7 +98431,6 @@ secur
 s
 trip
 ''
-fyi
 ``
 mill
 cheryl
@@ -98741,7 +98612,6 @@ amaz
 day
 ''
 ``
-fyi
 origin
 mpcsapp
 ''
@@ -99009,7 +98879,6 @@ sullivan
 jacob
 j
 ''
-fyi
 ''
 follow
 ''
@@ -99104,7 +98973,6 @@ comm
 farm
 etc
 ''
-fyi
 ''
 schedul
 odds+end
@@ -99270,7 +99138,6 @@ freed
 time
 s
 ''
-fyi
 ``
 see
 traffic
@@ -100335,7 +100202,6 @@ guess
 plane
 moment
 ''
-fyi
 ``
 per
 call
@@ -100488,12 +100354,10 @@ san
 suu
 kyi
 high
-fyi
 08/15/2024
 ''
 ''
 fw
-fyi
 ''
 ``
 see
@@ -102245,11 +102109,8 @@ pm
 h
 fw
 sister-in-law
-fyi
 ''
-fyi
 ``
-fyi
 mill
 cheryl
 d
@@ -102363,7 +102224,6 @@ meet
 honduran
 de
 facto
-fyi
 ''
 ''
 palau
@@ -102749,7 +102609,6 @@ with
 hama
 ''
 ``
-fyi
 mill
 cheryl
 d
@@ -104330,7 +104189,6 @@ thank
 thank
 you
 ''
-fyi
 superb
 ``
 madam
@@ -104474,7 +104332,6 @@ i
 love
 hillari
 ''
-fyi
 ''
 question
 ''
@@ -104735,7 +104592,6 @@ biden
 codel
 mack
 ''
-fyi
 ''
 pls
 forward
@@ -104745,7 +104601,6 @@ secretari
 greet
 cmill
 ''
-fyi
 dai
 ``
 releas
@@ -105050,7 +104905,6 @@ question
 next
 week
 ''
-fyi
 today
 ``
 we
@@ -106820,7 +106674,6 @@ pass
 hrc
 scorecard
 ''
-fyi
 ``
 sullivan
 jacob
@@ -108318,7 +108171,6 @@ call
 ''
 ``
 also
-fyi
 heard
 eikenberri
 go
@@ -112258,7 +112110,6 @@ i
 call
 u
 ''
-fyi
 ``
 indonesian
 9
@@ -113180,9 +113031,7 @@ cdm
 secur
 contractor
 ''
-fyi
 ``
-fyi
 see
 b/i
 mill
@@ -113213,7 +113062,6 @@ food
 prize
 video
 ''
-fyi
 ''
 fw
 video
@@ -113518,7 +113366,6 @@ s.
 ''
 haiti
 ''
-fyi
 ''
 fw
 my
@@ -113573,7 +113420,6 @@ video
 absolut
 fantast
 ''
-fyi
 ''
 climat
 meet
@@ -115070,7 +114916,6 @@ hondura
 quiet
 talk
 ''
-fyi
 ''
 resum
 other
@@ -115289,7 +115134,6 @@ b6
 presid
 aria
 ''
-fyi
 ''
 fw
 action
@@ -117060,7 +116904,6 @@ leav
 subject
 ''
 ``
-fyi
 mill
 cheryl
 d
@@ -117094,7 +116937,6 @@ forc
 resign
 whistleblow
 ''
-fyi
 ``
 mill
 cheryl
@@ -117324,7 +117166,6 @@ senat
 lautenberg
 object
 ''
-fyi
 ''
 yonhap
 two
@@ -117844,7 +117685,6 @@ email
 separ
 ''
 ``
-fyi
 730am
 michelleti
 call
@@ -117876,7 +117716,6 @@ s
 ask
 libya
 ''
-fyi
 ``
 sbwhoeop
 thursday
@@ -117886,7 +117725,6 @@ octob
 12:02
 am
 h
-fyi
 hagu
 report
 demint
@@ -119418,7 +119256,6 @@ un
 human
 right
 ''
-fyi
 ``
 did
 u
@@ -119567,14 +119404,11 @@ death
 amcit
 liberia
 ''
-fyi
 ''
 pasco
 b.
 lynn
 ''
-fyi
-fyi
 ``
 mill
 cheryl
@@ -120057,14 +119891,12 @@ h
 ''
 pakistan
 ''
-fyi
 ``
 releas
 in
 part
 b5
 b6
-fyi
 ''
 ''
 fw
@@ -120743,7 +120575,6 @@ time
 meet
 cheri
 also
-fyi
 year
 ago
 i
@@ -121256,7 +121087,6 @@ deni
 ``
 jp
 ist
-fyi
 —
 1
 ci4ra
@@ -121935,7 +121765,6 @@ normal
 meet
 ''
 ``
-fyi
 philipp
 michael
 turner
@@ -123102,7 +122931,6 @@ hometown
 jericho
 long
 island
-fyi
 jay
 friday
 's
@@ -123113,7 +122941,6 @@ event
 ''
 re
 ``
-fyi
 left
 messag
 cell
@@ -123983,7 +123810,6 @@ fw
 kelli
 declan
 ''
-fyi
 ``
 thank
 madam
@@ -124073,7 +123899,6 @@ kelli
 he
 's
 hampton
-fyi
 we
 walk
 place
@@ -125171,7 +124996,6 @@ tech
 del
 rock
 ''
-fyi
 ''
 s
 messag
@@ -125179,7 +125003,6 @@ world
 food
 prize
 ''
-fyi
 ''
 fw
 reward
@@ -125360,7 +125183,6 @@ afghanistan
 mtg
 pari
 ''
-fyi
 ''
 reuter
 egypt
@@ -126059,7 +125881,6 @@ fyi
 un-guinea
 updat
 ''
-fyi
 ''
 re
 here
@@ -126324,7 +126145,6 @@ foreign
 servic
 act
 ''
-fyi
 ''
 schedul
 ''
@@ -127079,7 +126899,6 @@ strategi
 smart
 aid
 ''
-fyi
 ''
 the
 telegraph
@@ -127724,7 +127543,6 @@ clinton
 ''
 nyt
 ''
-fyi
 ''
 a
 bold
@@ -127802,13 +127620,11 @@ forward
 call
 aria
 ''
-fyi
 ''
 hondura
 mayb
 mayb
 ''
-fyi
 ''
 oprah
 ''
@@ -129552,7 +129368,6 @@ call
 weigh
 micheletti
 ''
-fyi
 ''
 shannon
 valenzuela
@@ -129561,7 +129376,6 @@ demint
 staff
 mtg
 ''
-fyi
 ''
 anoth
 call
@@ -133306,7 +133120,6 @@ armor
 group
 updat
 ''
-fyi
 ''
 devin
 i
@@ -133700,7 +133513,6 @@ am
 h
 hormat
 hrg
-fyi
 ''
 ``
 cc
@@ -133792,7 +133604,6 @@ schedul
 thursday
 9/10/09
 ''
-fyi
 ''
 john
 kerri
@@ -133836,7 +133647,6 @@ want
 ``
 pml
 ''
-fyi
 ''
 book
 puerto
@@ -135645,7 +135455,6 @@ am
 h
 abedin
 huma
-fyi
 eikenberri
 call
 ''
@@ -136753,7 +136562,6 @@ valid
 list
 ''
 ``
-fyi
 sent
 via
 blackberri
@@ -140006,7 +139814,6 @@ luce
 articl
 ''
 nice
-fyi
 suppli
 ``
 of
@@ -141311,7 +141118,6 @@ honduran
 crisi
 fail
 ''
-fyi
 ''
 fw
 edward
@@ -142190,7 +141996,6 @@ b6
 fw
 raj
 ''
-fyi
 ``
 your
 arriv
@@ -143346,7 +143151,6 @@ releas
 in
 part
 b6
-fyi
 ''
 ''
 polic
@@ -144241,7 +144045,6 @@ may
 work
 tomorrow
 ''
-fyi
 ``
 richard
 offic
@@ -144299,7 +144102,6 @@ now
 2
 million
 ''
-fyi
 ''
 ronni
 heyman
@@ -147450,7 +147252,6 @@ releas
 in
 part
 b6
-fyi
 ''
 ''
 she
@@ -152226,7 +152027,6 @@ book
 parti
 invit
 ''
-fyi
 ''
 fw
 thank
@@ -153102,7 +152902,6 @@ our
 discuss
 ''
 ``
-fyi
 ellen
 i
 speak
@@ -153392,7 +153191,6 @@ talk
 white
 hous
 meet
-fyi
 ''
 ``
 abedin
@@ -153456,7 +153254,6 @@ jim
 mcgovern
 want
 know
-fyi
 ''
 ''
 fw
@@ -155842,7 +155639,6 @@ forthcom
 for
 s
 ''
-fyi
 ''
 s
 --
@@ -158393,7 +158189,6 @@ meek
 haiti
 detail
 ''
-fyi
 ``
 8:25
 presidenti
@@ -158661,7 +158456,6 @@ ought
 outreach
 ''
 ``
-fyi
 background
 call
 sheet
@@ -162472,7 +162266,6 @@ just
 thank
 you
 ''
-fyi
 libya
 ''
 libya
@@ -162484,7 +162277,6 @@ member
 brief
 tomorrow
 ''
-fyi
 ''
 irish
 time
@@ -162641,7 +162433,6 @@ clinton
 's
 speech
 ''
-fyi
 ``
 john
 murtha
@@ -162941,7 +162732,6 @@ secur
 video
 happen
 ''
-fyi
 ''
 fw
 death
@@ -163006,7 +162796,6 @@ funer
 oct
 6
 texa
-fyi
 ''
 ''
 unga
@@ -167268,7 +167057,6 @@ quick
 burma
 readout
 ''
-fyi
 cuba
 ''
 ap
@@ -168774,7 +168562,6 @@ will
 la
 ''
 ``
-fyi
 jose
 mayor
 villaraigosa
@@ -168857,7 +168644,6 @@ tell
 joe
 ''
 ''
-fyi
 hagu
 toni
 eu
@@ -169189,7 +168975,6 @@ parti
 fw
 pari
 ''
-fyi
 ''
 travel
 updat
@@ -169498,7 +169283,6 @@ piec
 eikenberri
 cabl
 ''
-fyi
 ``
 gordon
 brown
@@ -170025,7 +169809,6 @@ marrakech
 ''
 fyi
 goldston
-fyi
 ''
 re
 ig
@@ -170086,7 +169869,6 @@ a/
 arriv
 cdm
 ''
-fyi
 fyi
 ''
 re
@@ -170499,7 +170281,6 @@ fw
 want
 see
 ''
-fyi
 img00016-20100128-0252.jpg
 ``
 check
@@ -171093,7 +170874,6 @@ lugar
 remark
 tonight
 ''
-fyi
 bing
 bing
 ''
@@ -172301,7 +172081,6 @@ report
 press
 coverag
 ''
-fyi
 ''
 coupl
 power
@@ -172431,7 +172210,6 @@ move
 haiti
 tent
 ''
-fyi
 ''
 syg
 announc
@@ -172667,7 +172445,6 @@ press
 --
 guardian
 ''
-fyi
 ni
 ``
 here
@@ -173003,7 +172780,6 @@ fw
 osc
 ministeri
 ''
-fyi
 ''
 fw
 goldman
@@ -173016,7 +172792,6 @@ time
 ``
 import
 high
-fyi
 ''
 ''
 ni
@@ -173223,7 +172998,6 @@ track
 iraq
 time
 ''
-fyi
 ``
 you
 keep
@@ -173256,7 +173030,6 @@ h
 call
 sam
 lewi
-fyi
 ''
 ''
 10
@@ -173405,7 +173178,6 @@ remov
 kid
 wrong
 ''
-fyi
 ''
 want
 talk
@@ -173874,7 +173646,6 @@ will
 monuc
 extend
 ''
-fyi
 ''
 visa
 india
@@ -173894,7 +173665,6 @@ fw
 visa
 india
 b6
-fyi
 case
 reach
 direct
@@ -175216,7 +174986,6 @@ case
 ``
 import
 high
-fyi
 handwritten
 note
 ''
@@ -175269,7 +175038,6 @@ ig
 report
 ''
 ''
-fyi
 press
 clip
 wo
@@ -176611,7 +176379,6 @@ jake
 clear
 want
 sent
-fyi
 well
 oscar
 u
@@ -176622,7 +176389,6 @@ well
 email
 s
 ''
-fyi
 ''
 three
 call
@@ -176857,12 +176623,10 @@ happi
 holiday
 ''
 ``
-fyi
 happi
 christma
 ''
 ''
-fyi
 toni
 ...
 sid
@@ -176935,7 +176699,6 @@ even
 execut
 lgbt
 citizen
-fyi
 sent
 via
 blackberri
@@ -176950,7 +176713,6 @@ decemb
 2009
 5:52
 pm
-fyi
 ...
 's
 first
@@ -178574,7 +178336,6 @@ need
 email
 s
 ''
-fyi
 ``
 mill
 cheryl
@@ -178629,7 +178390,6 @@ move
 languag
 school
 ''
-fyi
 ''
 reuter
 taliban
@@ -178665,7 +178425,6 @@ eikenberri
 telcon
 ''
 ``
-fyi
 jack
 i
 discuss
@@ -179323,7 +179082,6 @@ confirm
 xo
 cdm
 ''
-fyi
 ''
 fw
 state.gov
@@ -180013,7 +179771,6 @@ final
 communiqu
 portuguese.docx
 finalcommuniquecreole_revision.docx
-fyi
 ''
 ''
 12/21
@@ -180252,7 +180009,6 @@ etc
 amb
 eikenberri
 ''
-fyi
 ''
 schedul
 ''
@@ -180442,7 +180198,6 @@ march
 ``
 newseum
 ''
-fyi
 ''
 schedul
 ''
@@ -180490,7 +180245,6 @@ re
 amcit
 haiti
 ''
-fyi
 ''
 easi
 read
@@ -180668,7 +180422,6 @@ releas
 u.s.
 missionari
 ''
-fyi
 ''
 ap
 polic
@@ -180715,7 +180468,6 @@ amano
 messag
 secretari
 ''
-fyi
 ''
 fw
 iran
@@ -189062,7 +188814,6 @@ flight
 go
 wheel
 ''
-fyi
 ''
 feedback
 middl
@@ -189895,7 +189646,6 @@ fw
 mani
 thank
 ''
-fyi
 ''
 d
 s
@@ -189905,7 +189655,6 @@ chelsea
 clinton
 photo
 ''
-fyi
 ''
 fw
 chelsea
@@ -190040,7 +189789,6 @@ am
 ''
 request
 ''
-fyi
 ''
 request
 ''
@@ -190619,7 +190367,6 @@ februari
 pm
 h
 just
-fyi
 what
 's
 go
@@ -192729,7 +192476,6 @@ chang
 tone
 ''
 ``
-fyi
 mill
 cheryl
 d
@@ -193011,7 +192757,6 @@ imposs
 postscript
 meet
 ''
-fyi
 ''
 haitian
 judg
@@ -193022,7 +192767,6 @@ freed
 week
 u
 ''
-fyi
 ''
 bravo
 brava
@@ -193377,7 +193121,6 @@ thank
 senat
 klobuchar
 ''
-fyi
 ''
 re
 thank
@@ -194264,7 +194007,6 @@ region
 bureaus
 meet
 ''
-fyi
 ''
 anoth
 memo
@@ -194418,7 +194160,6 @@ afghanistan
 jmis
 ''
 ''
-fyi
 lyn
 sweet
 say
@@ -196556,7 +196297,6 @@ alec
 ross
 ''
 ``
-fyi
 latest
 blair
 candidaci
@@ -198279,7 +198019,6 @@ daniel
 yohann
 ''
 ``
-fyi
 mill
 cheryl
 d
@@ -198558,11 +198297,9 @@ lugar
 centuri
 statecraft
 ''
-fyi
 ''
 ann
 ''
-fyi
 ''
 your
 technolog
@@ -198617,7 +198354,6 @@ shanghai
 andi
 young
 ''
-fyi
 ''
 tech
 task
@@ -198625,7 +198361,6 @@ forc
 updat
 1/17/2010
 ''
-fyi
 ''
 potenti
 topic
@@ -198669,7 +198404,6 @@ fw
 thank
 ''
 ``
-fyi
 b6
 ''
 ''
@@ -200394,7 +200128,6 @@ pm
 h
 doug
 band
-fyi
 blair
 's
 chanc
@@ -201007,7 +200740,6 @@ sexton
 marti
 edelman
 uae
-fyi
 —
 tell
 huma
@@ -201026,7 +200758,6 @@ local
 16:30
 edt
 ''
-fyi
 ''
 .fw
 kabul
@@ -201633,7 +201364,6 @@ follow
 ''
 thank
 ''
-fyi
 ''
 our
 mutual
@@ -202173,7 +201903,6 @@ scroll
 earthquak
 chile
 ''
-fyi
 dalla
 ``
 today
@@ -203733,7 +203462,6 @@ ron
 kirk
 ed
 markey
-fyi
 were
 n't
 abl
@@ -203882,7 +203610,6 @@ rob
 note
 sign
 ''
-fyi
 ``
 death
 toll
@@ -204878,7 +204605,6 @@ get
 lona
 ''
 ''
-fyi
 poll
 relev
 work
@@ -206491,7 +206217,6 @@ no
 haiti
 earthquak
 ''
-fyi
 ''
 updat
 un
@@ -207183,7 +206908,6 @@ pm
 fw
 good
 job
-fyi
 ''
 ''
 ap
@@ -207208,7 +206932,6 @@ the
 haiti
 earthquak
 ''
-fyi
 ''
 haiti
 ''
@@ -207220,7 +206943,6 @@ play
 state
 play
 ''
-fyi
 ''
 arab
 leagu
@@ -207298,7 +207020,6 @@ trip
 postpon
 ''
 ``
-fyi
 ambassador
 papua
 new
@@ -207396,7 +207117,6 @@ limit
 haiti
 email
 major
-fyi
 inform
 ''
 ``
@@ -209617,7 +209337,6 @@ disast
 insulza
 speech
 ''
-fyi
 call
 ''
 mini
@@ -209831,7 +209550,6 @@ espons
 s
 call
 ''
-fyi
 ``
 politico
 break
@@ -214907,7 +214625,6 @@ tonight
 ''
 ``
 h
-fyi
 sid
 ''
 ``
@@ -216443,7 +216160,6 @@ kyrgyz
 base
 close-off
 ''
-fyi
 ''
 remind
 wapo
@@ -216940,7 +216656,6 @@ entrench
 cuba
 ''
 ``
-fyi
 traffic
 ''
 kyrgyzstan
@@ -217059,7 +216774,6 @@ call
 otunbayeva
 ''
 ``
-fyi
 --
 sure
 time
@@ -217270,7 +216984,6 @@ guarante
 oust
 ruler
 ''
-fyi
 ''
 convers
 w/
@@ -217338,7 +217051,6 @@ complex
 crisi
 respons
 ''
-fyi
 ''
 sms
 gateway
@@ -218028,7 +217740,6 @@ march
 5:54
 pm
 h
-fyi
 sid
 h
 uri
@@ -220444,7 +220155,6 @@ iraq
 ''
 pakistan
 ''
-fyi
 ''
 touch
 base
@@ -220527,7 +220237,6 @@ march
 8:34
 am
 h
-fyi
 sid
 i
 send
@@ -220574,7 +220283,6 @@ energi
 climat
 partnership
 america
-fyi
 ''
 ''
 today
@@ -220722,7 +220430,6 @@ diplomaci
 ''
 ''
 ''
-fyi
 ''
 vp
 's
@@ -222198,7 +221905,6 @@ deal
 fyi
 ''
 h
-fyi
 broke
 guardian
 sid
@@ -222750,7 +222456,6 @@ libya
 roger
 ''
 h
-fyi
 sid
 ''
 ``
@@ -228102,7 +227807,6 @@ sanction
 transit
 ''
 ``
-fyi
 traffic
 mill
 cheryl
@@ -228238,7 +227942,6 @@ mandat
 renew
 ''
 ``
-fyi
 this
 resolv
 respect
@@ -228890,7 +228593,6 @@ napolitano
 secretari
 state
 clinton
-fyi
 ''
 ''
 summari
@@ -229024,7 +228726,6 @@ suffici
 time
 her
 updat
-fyi
 ''
 ``
 hillari
@@ -229829,7 +229530,6 @@ nita
 lowey
 ajc
 ''
-fyi
 ``
 fyi
 isra
@@ -229882,7 +229582,6 @@ march
 9:36
 am
 pverveer
-fyi
 drug
 violenc
 cuidad
@@ -233694,7 +233393,6 @@ releas
 in
 part
 b6
-fyi
 ''
 ''
 per
@@ -233702,7 +233400,6 @@ request
 brussel
 forum
 ''
-fyi
 ''
 mrs
 mubarak
@@ -233769,7 +233466,6 @@ white
 smoke
 ''
 ``
-fyi
 good
 news
 ''
@@ -234652,7 +234348,6 @@ hrc
 p3
 israel
 ''
-fyi
 hiker
 ``
 can
@@ -235698,7 +235393,6 @@ b1
 ``
 1.4
 d
-fyi
 1.4
 d
 —
@@ -236228,7 +235922,6 @@ verd
 april
 24-25
 ''
-fyi
 ''
 schedul
 ''
@@ -237865,7 +237558,6 @@ fw
 recept
 invit
 ''
-fyi
 ''
 the
 bride
@@ -238225,7 +237917,6 @@ kindergarten
 china
 ''
 ``
-fyi
 u
 talk
 dai
@@ -239727,7 +239418,6 @@ call
 secretari
 clinton
 ''
-fyi
 ''
 netanyahu
 ''
@@ -240766,7 +240456,6 @@ believ
 clinton
 intro
 ''
-fyi
 ``
 is
 readi
@@ -240903,7 +240592,6 @@ includ
 foreign
 donor
 ''
-fyi
 ''
 fw
 call
@@ -241370,7 +241058,6 @@ announc
 biden
 visit
 ''
-fyi
 ``
 sullivan
 jacob
@@ -242541,7 +242228,6 @@ secretari
 ''
 ''
 h
-fyi
 sid
 ''
 ``
@@ -244233,7 +243919,6 @@ border
 issu
 updat
 ''
-fyi
 ''
 border
 issu
@@ -244315,7 +244000,6 @@ never
 rain
 ...
 ..
-fyi
 ''
 ''
 re
@@ -244561,7 +244245,6 @@ draft
 statement
 work
 ''
-fyi
 ``
 want
 let
@@ -246847,7 +246530,6 @@ summer
 ''
 ``
 this
-fyi
 offic
 planning/schedul
 purpos
@@ -246884,7 +246566,6 @@ travel
 s-ashton
 updat
 ''
-fyi
 ''
 fw
 summari
@@ -247145,7 +246826,6 @@ fulli
 engag
 s
 ''
-fyi
 ''
 fw
 garcia
@@ -247183,7 +246863,6 @@ check
 ''
 ``
 just
-fyi
 thought
 might
 interest
@@ -247502,7 +247181,6 @@ hear
 anyth
 f
 -1
-fyi
 ''
 ''
 re
@@ -247877,7 +247555,6 @@ kay
 bailey
 hutchison
 ''
-fyi
 ''
 sen.
 kay
@@ -248148,7 +247825,6 @@ thank
 you
 for
 wjc
-fyi
 ''
 ''
 barbara
@@ -249971,7 +249647,6 @@ stop
 ecuador
 ''
 ``
-fyi
 arturo
 make
 renew
@@ -250814,7 +250489,6 @@ assent
 ''
 ``
 fw
-fyi
 ''
 ``
 this
@@ -250863,13 +250537,11 @@ jim
 accompani
 haiti
 ''
-fyi
 ''
 bomb
 sufi
 shrine
 ''
-fyi
 ''
 ap
 pakistan
@@ -251320,7 +250992,6 @@ micheletti
 step
 asid
 ''
-fyi
 ''
 great
 job
@@ -251343,7 +251014,6 @@ cultur
 letter
 ''
 ``
-fyi
 bit
 congressipn
 outreach
@@ -251728,7 +251398,6 @@ much
 quicker
 ramp-up
 ''
-fyi
 ''
 h
 earli
@@ -255472,7 +255141,6 @@ public
 afghanistan
 strategi
 ''
-fyi
 ''
 set
 holbrook
@@ -255617,7 +255285,6 @@ haiti
 earthquak
 sbu
 ''
-fyi
 ''
 out
 offic
@@ -255816,7 +255483,6 @@ human
 right
 ''
 ``
-fyi
 happi
 give
 context
@@ -256706,7 +256372,6 @@ state
 direct
 ''
 ''
-fyi
 go
 around
 ...
@@ -257616,7 +257281,6 @@ jim
 go
 call
 ''
-fyi
 ''
 fw
 convers
@@ -258240,7 +257904,6 @@ juli
 10:06
 am
 h
-fyi
 leak
 luntz
 poll
@@ -258713,7 +258376,6 @@ srebrenica
 genocid
 ''
 ``
-fyi
 put
 follow
 today
@@ -258819,7 +258481,6 @@ a
 things..
 ''
 b6
-fyi
 ``
 http
 //www.bloomberq.com/news/2010-07-14/americans-disappoving-of-obama-policies-poised-to-enable-republican-
@@ -259993,7 +259654,6 @@ compar
 percent
 overal
 ''
-fyi
 ``
 secur
 council
@@ -260196,7 +259856,6 @@ throughout
 region
 ''
 ``
-fyi
 ''
 yes
 ''
@@ -260343,7 +260002,6 @@ major
 isra
 daili
 may27
-fyi
 sid
 ''
 ``
@@ -262222,7 +261880,6 @@ tonight
 comment
 flotilla
 ''
-fyi
 ``
 i
 current
@@ -262327,7 +261984,6 @@ secretari
 clinton
 ''
 ``
-fyi
 —
 cir
 team
@@ -262967,7 +262623,6 @@ colombia
 secretari
 clinton
 ''
-fyi
 ''
 fw
 call
@@ -263005,10 +262660,8 @@ june
 7:21
 am
 h
-fyi
 ''
 ''
-fyi
 ''
 ``
 i
@@ -263043,7 +262696,6 @@ roger
 ''
 ``
 h
-fyi
 sid
 ''
 ``
@@ -263538,7 +263190,6 @@ back
 oper
 ''
 ``
-fyi
 bent
 rn
 jun
@@ -263823,7 +263474,6 @@ direct
 ''
 import
 ''
-fyi
 followup
 ok
 ''
@@ -264356,7 +264006,6 @@ u.s.
 relief
 haiti
 ''
-fyi
 ''
 tftp
 ''
@@ -265752,7 +265401,6 @@ turkey-azerbaijan
 agreement
 sign
 ''
-fyi
 ''
 fw
 funer
@@ -266009,7 +265657,6 @@ avoid
 strife
 update3
 ''
-fyi
 ``
 saw
 phone
@@ -267020,9 +266667,7 @@ fw
 new
 mexico
 ''
-fyi
 ''
-fyi
 steinberg
 call
 ''
@@ -267034,7 +266679,6 @@ president-elect
 aquino
 philippin
 ''
-fyi
 ''
 i
 believ
@@ -267096,7 +266740,6 @@ deal
 european
 parliament
 ''
-fyi
 ``
 welcom
 back
@@ -270371,7 +270014,6 @@ s-saudabayev
 call
 ''
 ``
-fyi
 i
 think
 call
@@ -274169,7 +273811,6 @@ term
 elect
 held
 ''
-fyi
 ``
 cc
 rodriguez
@@ -279852,7 +279493,6 @@ right
 human
 right
 ''
-fyi
 ''
 re
 are
@@ -280707,7 +280347,6 @@ second
 wave
 mccrystal
 ''
-fyi
 ''
 tonight
 ''
@@ -281177,7 +280816,6 @@ told
 kyrgyzstan
 uzbekistan
 ''
-fyi
 ``
 hanley
 monica
@@ -281980,7 +281618,6 @@ issu
 farewel
 ''
 ``
-fyi
 traffic
 ''
 quartet
@@ -283132,7 +282769,6 @@ often
 norway
 confirm
 ''
-fyi
 ``
 attach
 ppd
@@ -285545,7 +285181,6 @@ pm
 rudd
 request
 ''
-fyi
 ''
 ecuador
 financi
@@ -287721,7 +287356,6 @@ august
 2010
 12:37
 pm
-fyi
 go
 back
 print
@@ -295437,7 +295071,6 @@ yes
 known
 ''
 ``
-fyi
 ''
 ``
 long
@@ -295744,7 +295377,6 @@ execsec/pakistan
 relief
 packag
 ''
-fyi
 ''
 pa
 germani
@@ -296077,7 +295709,6 @@ august
 4
 2010.dooc
 ''
-fyi
 ''
 the
 polit
@@ -296320,7 +295951,6 @@ blackberri
 wireless
 handheld
 ''
-fyi
 ''
 h
 sunday
@@ -296371,7 +296001,6 @@ day
 ''
 ``
 import
-fyi
 mchale
 judith
 a
@@ -296405,7 +296034,6 @@ fw
 kenya
 updat
 ''
-fyi
 ''
 philippin
 compact
@@ -298228,7 +297856,6 @@ cdm
 ''
 gome
 ''
-fyi
 ``
 mchale
 judith
@@ -300176,7 +299803,6 @@ haiti
 mdtf
 contribut
 55m
-fyi
 ''
 srap
 ``
@@ -304659,7 +304285,6 @@ juli
 9:55
 am
 h
-fyi
 circul
 isra
 us
@@ -305116,7 +304741,6 @@ women
 kabul
 confer
 ''
-fyi
 ''
 revenu
 collect
@@ -305150,7 +304774,6 @@ nail
 nail-bit
 all-night
 ''
-fyi
 ``
 i
 current
@@ -305238,7 +304861,6 @@ fw
 peter
 erlind
 ''
-fyi
 ''
 ap
 egypt
@@ -305264,7 +304886,6 @@ more
 ''
 ''
 ``
-fyi
 see
 discuss
 larri
@@ -306461,14 +306082,12 @@ min
 megrahi
 hrg
 ''
-fyi
 ''
 editori
 today
 's
 wapost
 ''
-fyi
 ''
 thank
 ''
@@ -306863,7 +306482,6 @@ iimiiiimonin
 big
 win
 ''
-fyi
 ``
 reuter
 iran
@@ -306874,7 +306492,6 @@ fuel
 swap
 deal
 ''
-fyi
 afp
 ``
 inept
@@ -307425,7 +307042,6 @@ warn
 big
 win
 ''
-fyi
 ''
 afp
 ''
@@ -307474,7 +307090,6 @@ statement
 conflict
 miner
 ''
-fyi
 ''
 reuter
 turkish
@@ -311818,7 +311433,6 @@ busi
 earli
 ''
 ``
-fyi
 abedin
 huma
 abedinh
@@ -312031,7 +311645,6 @@ mond
 internet
 freedom
 ''
-fyi
 ''
 the
 western
@@ -312324,14 +311937,12 @@ leav
 see
 wi
 context
-fyi
 ''
 ''
 senat
 floor
 updat
 ''
-fyi
 ``
 gay
 coupl
@@ -312440,7 +312051,6 @@ new
 york
 ''
 ``
-fyi
 wmd
 free
 zone
@@ -312901,7 +312511,6 @@ cheonan
 ``
 import
 high
-fyi
 ''
 ''
 here
@@ -312954,7 +312563,6 @@ part
 b
 b1,1.4
 d
-fyi
 reason
 1.4
 b
@@ -313452,7 +313060,6 @@ woman
 issu
 event
 but
-fyi
 i
 'm
 pretti
@@ -316014,7 +315621,6 @@ import
 high
 fyi
 ''
-fyi
 ``
 politico
 break
@@ -316606,7 +316212,6 @@ isra
 daili
 may
 27
-fyi
 sid
 ''
 ``
@@ -317443,7 +317048,6 @@ kosmos-exxonmobil
 deal
 ''
 ``
-fyi
 johnni
 's
 convers
@@ -326431,7 +326035,6 @@ particip
 zardari
 ''
 ``
-fyi
 good
 ''
 ``
@@ -326621,7 +326224,6 @@ wildfir
 foreign
 ministri
 ''
-fyi
 ''
 re
 call
@@ -326708,7 +326310,6 @@ thank
 talk
 ''
 ``
-fyi
 sen
 mitchel
 'd
@@ -327046,7 +326647,6 @@ east
 .doc
 ''
 ``
-fyi
 sandi
 sent
 attach
@@ -329085,7 +328685,6 @@ goodwil
 pakistan
 ''
 ``
-fyi
 note
 i
 sent
@@ -333012,7 +332611,6 @@ print
 desk
 ''
 ''
-fyi
 's
 economi
 gestur
@@ -334611,7 +334209,6 @@ least
 3
 ''
 ''
-fyi
 pat
 lang
 ''
@@ -334867,7 +334464,6 @@ septemb
 am
 h
 h
-fyi
 mid-term
 strategi
 ...
@@ -337686,7 +337282,6 @@ claim
 east
 jerusalem
 ''
-fyi
 ''
 ap
 hama
@@ -337702,10 +337297,8 @@ attack
 basebal
 cap
 ''
-fyi
 ''
 fw
-fyi
 uss
 iwo
 jima
@@ -338209,7 +337802,6 @@ pass
 sfrc
 14-4
 ''
-fyi
 ''
 h
 fyi
@@ -342023,7 +341615,6 @@ yba
 ``
 import
 high
-fyi
 ''
 ``
 pir
@@ -342803,7 +342394,6 @@ octob
 8
 2010
 final.docx
-fyi
 readout
 of
 meet
@@ -350666,7 +350256,6 @@ re
 call
 ''
 ``
-fyi
 10/13/2035
 ''
 ''
@@ -351253,7 +350842,6 @@ pm
 ''
 ''
 h
-fyi
 discus
 come
 air
@@ -351263,7 +350851,6 @@ sid
 ``
 subject
 h
-fyi
 discus
 come
 air
@@ -353443,7 +353030,6 @@ get
 letter
 ''
 ``
-fyi
 princ
 work
 dermer
@@ -353503,7 +353089,6 @@ yes
 ''
 ''
 h
-fyi
 state
 play/pol
 sid
@@ -357046,7 +356631,6 @@ nk
 team
 ''
 ``
-fyi
 cryptic
 ''
 ``
@@ -357055,7 +356639,6 @@ ibrahim
 ''
 ``
 also
-fyi
 not
 sure
 make
@@ -357392,7 +356975,6 @@ rudd
 speak
 oxi
 ''
-fyi
 ''
 foreign
 affair
@@ -357450,7 +357032,6 @@ urgent
 follow
 cheryl
 mill
-fyi
 ''
 ``
 sigh
@@ -357612,7 +357193,6 @@ urgent
 follow
 cheryl
 mill
-fyi
 ''
 ``
 per
@@ -359506,7 +359086,6 @@ go
 burma
 travel
 ''
-fyi
 ''
 most
 import
@@ -369998,7 +369577,6 @@ hour
 ``
 5+1
 ''
-fyi
 ''
 fax
 chang
@@ -370024,7 +369602,6 @@ version
 jimmi
 carter
 ''
-fyi
 ``
 sbwhoeop
 saturday
@@ -371015,7 +370592,6 @@ done
 ''
 updat
 ''
-fyi
 ''
 latest
 draft
@@ -373445,7 +373021,6 @@ debt
 problem
 mount
 ''
-fyi
 ''
 venezuelan
 reject
@@ -373457,7 +373032,6 @@ communiqué
 preview
 s
 ''
-fyi
 ``
 pverveer
 saturday
@@ -375408,7 +374982,6 @@ russia
 123
 ''
 ``
-fyi
 small
 good
 news
@@ -376184,7 +375757,6 @@ r
 ''
 ``
 h
-fyi
 sid
 ''
 ``
@@ -376475,7 +376047,6 @@ talk
 ''
 ``
 h
-fyi
 sid
 ''
 ``
@@ -376602,7 +376173,6 @@ call
 ''
 ``
 h
-fyi
 sid
 ''
 ``
@@ -378002,7 +377572,6 @@ case
 ``
 import
 high
-fyi
 ''
 ``
 mchale
@@ -378707,7 +378276,6 @@ kaia
 lenhart
 gmmb
 ''
-fyi
 ``
 import
 crowley
@@ -379093,7 +378661,6 @@ whi
 taghavi
 releas
 ''
-fyi
 ''
 haaretz
 pere
@@ -379329,7 +378896,6 @@ articl
 abba
 confirm
 ''
-fyi
 ``
 sullivan
 jacob
@@ -379345,7 +378911,6 @@ pm
 h
 from
 b6
-fyi
 ''
 ''
 iran
@@ -379930,7 +379495,6 @@ pakistan
 relief
 fund
 ''
-fyi
 ``
 sbwhoeop
 saturday
@@ -381508,7 +381072,6 @@ fw
 updat
 psa
 ''
-fyi
 camera
 ``
 monica
@@ -382703,7 +382266,6 @@ argument
 700
 word
 ''
-fyi
 ''
 bill
 burn
@@ -383818,7 +383380,6 @@ farmer
 corker
 ''
 yes
-fyi
 ``
 from
 israel
@@ -387348,7 +386909,6 @@ op-
 brand
 pakistan
 ''
-fyi
 ``
 jon
 davidson
@@ -394721,7 +394281,6 @@ ussc
 ltg
 dayton
 ''
-fyi
 ''
 fw
 name
@@ -394800,7 +394359,6 @@ phil
 unsc
 elect
 ''
-fyi
 ''
 fw
 your
@@ -394818,7 +394376,6 @@ b1,1.4
 d
 hrc
 just
-fyi
 note
 highlight
 part
@@ -394828,7 +394385,6 @@ iranian
 particip
 rome
 ''
-fyi
 ''
 bbc
 apps4africa
@@ -394840,7 +394396,6 @@ innov
 ''
 ''
 ``
-fyi
 good
 coverag
 jm
@@ -397315,7 +396870,6 @@ day
 iraq
 wrap-up
 ''
-fyi
 ''
 blackwat
 case
@@ -397827,7 +397381,6 @@ pakistan
 economi
 ''
 ``
-fyi
 case
 seen
 interest
@@ -398152,7 +397705,6 @@ good
 wife
 ''
 ``
-fyi
 later
 campaign
 ...
@@ -404627,7 +404179,6 @@ haiti
 ''
 ``
 image003.jpg
-fyi
 ''
 ''
 haiti
@@ -404995,7 +404546,6 @@ news
 on
 ni
 sid
-fyi
 so
 i
 need
@@ -405089,7 +404639,6 @@ the
 paster
 ''
 ``
-fyi
 howard
 fell
 ill
@@ -405243,7 +404792,6 @@ huma
 abedin
 sullivanjj
 state.gov
-fyi
 robinson/mcgui
 n't
 confirm
@@ -405346,7 +404894,6 @@ issu
 statement
 sid
 ''
-fyi
 ``
 madelein
 albright
@@ -405489,7 +405036,6 @@ fw
 lgbt
 right
 ''
-fyi
 ''
 mubarak
 avail
@@ -405651,7 +405197,6 @@ sid
 ''
 ``
 020610.docx
-fyi
 can
 determin
 shaun
@@ -409543,7 +409088,6 @@ it
 work
 sid
 ''
-fyi
 ''
 call
 list
@@ -410548,7 +410092,6 @@ go
 ``
 feedback
 ''
-fyi
 ''
 plane
 read
@@ -410949,7 +410492,6 @@ doug
 band
 b6
 haiti
-fyi
 ''
 ``
 cvc
@@ -412611,13 +412153,11 @@ g8
 fms
 lunch
 ''
-fyi
 ''
 fw
 one
 thing
 ''
-fyi
 ''
 postscript
 last
@@ -415101,7 +414641,6 @@ new
 public
 diplomaci
 ''
-fyi
 ``
 gerri
 adam
@@ -415111,7 +414650,6 @@ nomin
 general
 elect
 ''
-fyi
 ''
 h
 fyi
@@ -415175,7 +414713,6 @@ toni
 from
 arturo
 ''
-fyi
 ``
 h
 hrod17
@@ -415431,7 +414968,6 @@ see
 dan
 ''
 ``
-fyi
 h
 hrod17
 clintonemail.com
@@ -416097,7 +415633,6 @@ am
 ''
 saeb
 ''
-fyi
 confirm
 ``
 10:30
@@ -416116,7 +415651,6 @@ palestin
 ''
 ``
 just
-fyi
 ''
 oscar
 ``
@@ -425674,7 +425208,6 @@ i
 see
 ''
 ``
-fyi
 ''
 ``
 are
@@ -425996,7 +425529,6 @@ isra
 daili
 may
 27
-fyi
 sid
 ''
 ``
@@ -427383,7 +426915,6 @@ secretari
 clinton
 ''
 ''
-fyi
 ''
 ``
 what
@@ -427400,7 +426931,6 @@ readi
 go
 ''
 ``
-fyi
 ''
 ''
 bill
@@ -428237,7 +427767,6 @@ sullivanjj
 state.gov
 aipac
 ''
-fyi
 ``
 not
 sure
@@ -432803,7 +432332,6 @@ cheer
 --
 hillari
 ''
-fyi
 abba
 ``
 we
@@ -433216,7 +432744,6 @@ for
 flood
 tax
 ''
-fyi
 ''
 haaretz
 palestinian
@@ -434394,7 +433921,6 @@ d
 b1
 ''
 ''
-fyi
 ''
 ``
 let
@@ -435432,7 +434958,6 @@ note
 hrc
 bono
 all
-fyi
 ''
 ''
 note
@@ -436058,7 +435583,6 @@ sid
 ''
 babi
 ''
-fyi
 ``
 fw
 obama
@@ -436169,7 +435693,6 @@ packet
 ''
 ashton
 ''
-fyi
 ``
 ashton
 ''
@@ -436475,7 +435998,6 @@ pm
 dac
 chair
 elect
-fyi
 ''
 ''
 check
@@ -436651,7 +436173,6 @@ h
 pleas
 one
 els
-fyi
 interest
 nugget
 ''
@@ -436677,7 +436198,6 @@ visit
 hrc
 ''
 ``
-fyi
 reaction
 word
 b6
@@ -436756,7 +436276,6 @@ img00068-20101031-1132jpg
 img00072-20101031-1141jpg
 b6
 1mg00083-20101031-1645jpg
-fyi
 b6
 ''
 qddr
@@ -436941,7 +436460,6 @@ b5
 can
 see
 ''
-fyi
 ''
 confidenti
 ''
@@ -437849,7 +437367,6 @@ observ
 isra
 raid
 sid
-fyi
 iti
 ''
 ''
@@ -437862,12 +437379,10 @@ isra
 daili
 may
 27
-fyi
 sid
 ''
 ``
 more
-fyi
 ''
 shuttl
 ``
@@ -439479,7 +438994,6 @@ copi
 latest
 cont
 ''
-fyi
 ''
 updat
 reuter
@@ -439522,7 +439036,6 @@ construct
 ''
 rice/bak
 ''
-fyi
 ''
 done
 ''
@@ -440904,7 +440417,6 @@ pm
 hanleymr
 state.gov
 confidenti
-fyi
 ''
 ``
 releas
@@ -442135,7 +441647,6 @@ week
 christian
 amanpour
 ''
-fyi
 ``
 verveer
 melann
@@ -443866,7 +443377,6 @@ jm
 qddr
 breakfast
 ''
-fyi
 ''
 re
 wikileak
@@ -445132,7 +444642,6 @@ us
 indonesia
 ''
 ``
-fyi
 21st
 centuri
 engag
@@ -445149,7 +444658,6 @@ sujay
 ''
 ``
 sigh
-fyi
 ''
 ''
 saeb
@@ -445975,7 +445483,6 @@ work
 wiki/ranneberg
 ''
 ``
-fyi
 classifi
 das
 a/gi
@@ -446001,7 +445508,6 @@ fm
 mottaki
 remov
 ''
-fyi
 ''
 mitch
 mconnel
@@ -446306,7 +445812,6 @@ media
 campaign
 2010
 ''
-fyi
 ''
 a
 new
@@ -446512,7 +446017,6 @@ fwd
 bb
 ''
 ``
-fyi
 forward
 messag
 ''
@@ -446960,3 +446464,327 @@ rubin
 former
 assist
 secretari
+state
+bill
+clinton
+david
+shipley
+editor
+the
+new
+york
+time
+op-
+page
+opinion
+commentari
+typic
+area
+focus
+bloomberg
+just-the-fact
+approach
+in
+fact
+mayor
+complain
+corros
+effect
+24-hour
+news
+cycl
+overh
+polit
+commentari
+blogospher
+but
+compani
+leader
+includ
+mr.
+bloomberg
+awar
+project
+sinc
+conceiv
+two
+year
+ago
+saw
+opportun
+extend
+influenc
+for
+firm
+made
+secret
+ambit
+becom
+influenti
+medium
+compani
+world
+start
+editori
+oper
+latest
+effort
+propel
+beyond
+core
+mission
+financi
+news
+servic
+the
+notion
+medium
+baron
+use
+editori
+shape
+public
+opinion
+polici
+accord
+person
+view
+old
+one
+american
+journal
+william
+randolph
+hearst
+exampl
+often
+wrote
+front-pag
+editori
+newspap
+mr.
+bloomberg
+would
+seem
+cast
+mold
+though
+plan
+begin
+write
+sign
+editori
+for
+content
+let
+trust
+deputi
+speak
+``
+``
+he
+'s
+accept
+embrac
+privileg
+medium
+mogul
+''
+''
+said
+david
+nasaw
+professor
+histori
+citi
+univers
+new
+york
+graduat
+center
+wrote
+biographi
+hearst
+``
+``
+this
+we
+tri
+persuad
+rest
+world
+right
+of
+cours
+n't
+vehicl
+the
+rich
+vehicl
+''
+''
+mr.
+winkler
+said
+``
+''
+there
+'s
+huge
+opportun
+bloomberg
+l.p.
+bloomberg
+news
+seiz
+day
+liter
+seiz
+day
+bring
+wisdom
+event
+unfold
+and
+one
+ca
+n't
+alway
+best
+result
+report
+''
+''
+``
+``
+that
+certain
+benefit
+founder
+compani
+man
+but
+huge
+opportun
+bloomberg
+compani
+take
+advantag
+''
+''
+mr.
+winkler
+ad
+bloomberg
+l.p.
+acquir
+businessweek
+last
+year
+give
+29-year-old
+compani
+print
+product
+long
+legaci
+accomplish
+bloomberg
+midst
+expans
+washington
+with
+servic
+call
+bloomberg
+govern
+oper
+eventu
+employ
+300
+journalist
+analyst
+compani
+sell
+5,700
+year
+inform
+govern
+servic
+contract
+lobbyist
+other
+busi
+interest
+nation
+'s
+capit
+''
+``
+ap
+germani
+pullout
+afghanistan
+start
+2011
+''
+''
+ap
+palestinian
+seek
+state
+recognit
+europ
+''
+``
+mill
+cheryl
+d
+millscd
+state.gov
+thursday
+decemb
+16
+2010
+9:28
+am
+fw
+from
+pakistan
+''
+''
+fw
+the
+envoy
+''
+``
+the
+nbc/yorker
+decemb
+14
+2010
+the
+envoy
+post
+hendrik
+hertzberg
+last
+night
+i
+unlock
+bike
+windswept
+greenwich
+villag
+sidewalk
+leav
+holiday
+parti
+friend
+approach
+cell
+phone
+hand
+a
+minut
+earlier
